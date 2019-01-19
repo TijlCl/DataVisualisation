@@ -1,0 +1,21 @@
+body {
+ background-image: url('background.jpg');
+ text-align: center;
+}
+
+path {
+  stroke: white;
+  stroke-width: 0.25px;
+  fill: grey;
+}
+
+#tooltip {
+  text-align: left;
+  padding: 16px;
+  background-color: lightsalmon;
+  border: 1px solid black;
+  width: auto;
+  opacity: 0;
+  color: black;
+  position: absolute;
+}
