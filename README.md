@@ -24,3 +24,9 @@ in cities with more than 300,000 inhabitants.
 This is a visualisation made in processing that visualises a a real time twitter stream.
 Every second a trumphead is drawn on the canvas and the y position is based on the number of tweets containing the word
 "trump" sent in that second
+
+## Assignment 5
+
+This is a phisycal visualisation that visualises the numbers of deaths in a year caused by the 5 major drugs in the US:
+Heroin, cocaine, crystal meth, cannabis and alcohol.
+Every nail represents 1000 deaths.
